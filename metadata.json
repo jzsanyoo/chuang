@@ -1,0 +1,6 @@
+{
+  "name": "创实产品定价表",
+  "description": "导入快递表格，输入产品成本，快速计算建议售价与毛利对比分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
